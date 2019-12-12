@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62592713-14aa-4ce8-95d7-bf2e01d14dd9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bigbank/browserhandler/BrowserHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bigbank/browserhandler/BrowserHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bigbank/CreateBookSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bigbank/CreateBookSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bigbank/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bigbank/RunCucumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bigbank/WaitSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bigbank/WaitSteps.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RunCucumberTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bigbank/RunCucumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="report.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/cucumber-reports/report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrowserHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bigbank/browserhandler/BrowserHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddNewBook.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/AddNewBook.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchBook.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/SearchBook.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateBookSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bigbank/CreateBookSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1371#1372#0" expanded="true" />
+                <element signature="e#1445#1446#0" expanded="true" />
+                <element signature="e#3941#3942#0" expanded="true" />
+                <element signature="e#4035#4036#0" expanded="true" />
+                <element signature="e#3792#3793#0" expanded="true" />
+                <element signature="e#3864#3865#0" expanded="true" />
+                <element signature="e#3079#3080#0" expanded="true" />
+                <element signature="e#3148#3149#0" expanded="true" />
+                <element signature="e#5065#5066#0" expanded="true" />
+                <element signature="e#5094#5095#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Locators.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bigbank/locators/Locators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WaitSteps.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bigbank/WaitSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>package com\.bigbank\;\nimport java\.util\.concurrent\.TimeUnit\;\n\nimport cucumber\.api\.java\.en\.And\;\nimport org\.junit\.Assert\;\nimport org\.openqa\.selenium\.By\;\nimport org\.openqa\.selenium\.WebDriver\;\nimport cucumber\.api\.java\.en\.Given\;\nimport cucumber\.api\.java\.en\.Then\;\nimport cucumber\.api\.java\.en\.When\;\nimport com\.bigbank\.locators\.Locators\;\nimport com\.bigbank\.browserhandler\.BrowserHandler\;\n\npublic class CreateBookSteps \{\n\n    public static WebDriver driver\;\n\n    \/\/ Bookstore stuff\n    \@Given\(\&quot;\^I open library webApp\$\&quot;\)\n    public void I_open_library_webApp\(\) throws Throwable \{\n        BrowserHandler bh\;\n        bh \= new BrowserHandler\(\)\;\n        driver \= bh\.getBrowser\(\)\;\n    \}\n    \@And\(\&quot;\^I navigate to create new book page\$\&quot;\)\n    public void I_navigate_to_create_new_book_page\(\) throws Throwable \{\n        driver\.findElement\(By\.linkText\(\&quot;Create new book\&quot;\)\)\.click\(\)\;\n    \}\n\n    \@Then\(\&quot;\^I can see options to create new book\$\&quot;\)\n    public void I_can_see_options_to_create_new_book\(\) throws Throwable \{\n        String exp_message \= \&quot;Create Book\&quot;\;\n        String actual \= driver\.findElement\(By\.xpath\(\&quot;\/\/h1\[contains\(text\(\)\,\'Create Book\'\)\]\&quot;\)\)\.getText\(\)\;\n        Assert\.assertEquals\(exp_message\, actual\)\;\n        Assert\.assertTrue\(driver\.getPageSource\(\)\.contains\(\&quot;Title\&quot;\)\)\;\n        Assert\.assertTrue\(driver\.getPageSource\(\)\.contains\(\&quot;Author\&quot;\)\)\;\n        Assert\.assertTrue\(driver\.getPageSource\(\)\.contains\(\&quot;Summary\&quot;\)\)\;\n        Assert\.assertTrue\(driver\.getPageSource\(\)\.contains\(\&quot;ISBN\&quot;\)\)\;\n    \}\n\n    \@And\(\&quot;\^I input book name\$\&quot;\)\n    public void I_input_book_name\(\) throws Throwable \{\n        Thread\.sleep\(2000\)\;\n        driver\.manage\(\)\.timeouts\(\)\.implicitlyWait\(10\, TimeUnit\.SECONDS\)\;\n        driver\.findElement\(By\.xpath\(Locators\.BookName\)\)\.click\(\)\;\n        driver\.findElement\(By\.xpath\(\&quot;\/\/input\[\@id\=\'title\'\]\&quot;\)\)\.sendKeys\(\&quot;cucumber101\&quot;\)\;\n    \}\n\n    \@And\(\&quot;\^I select author\$\&quot;\)\n    public void I_select_author\(\) throws Throwable \{\n        driver\.manage\(\)\.timeouts\(\)\.implicitlyWait\(10\, TimeUnit\.SECONDS\)\;\n        driver\.findElement\(By\.xpath\(\&quot;\/\/select\[\@id\=\'author\'\]\&quot;\)\)\.sendKeys\(\&quot;King\, Stephan\&quot;\)\;\n    \}\n\n    \@And\(\&quot;\^I input summary\$\&quot;\)\n    public void I_input_summary\(\) throws Throwable \{\n        driver\.findElement\(By\.xpath\(\&quot;\/\/input\[\@id\=\'summary\'\]\&quot;\)\)\.sendKeys\(\&quot;King\, Stephan\&quot;\)\;\n\n    \}\n\n    \@And\(\&quot;\^I input ISBN\$\&quot;\)\n    public void I_input_ISBN\(\) throws Throwable \{\n        driver\.findElement\(By\.xpath\(\&quot;\/\/input\[\@id\=\'isbn\'\]\&quot;\)\)\.sendKeys\(\&quot;123456\&quot;\)\;\n    \}\n\n    \@And\(\&quot;\^I check genre as fiction\&quot;\)\n    public void I_check_genre_as_fiction\(\) throws Throwable \{\n        Thread\.sleep\(1000\)\;\n        driver\.findElement\(By\.xpath\(\&quot;\/\/label\[contains\(text\(\)\,\'Fiction\'\)\]\&quot;\)\)\.click\(\)\;\n        Thread\.sleep\(6000\)\;\n    \}\n\n\n    \@When\(\&quot;\^I press submit\$\&quot;\)\n    public void I_press_submit\(\) throws Throwable \{\n        driver\.findElement\(By\.xpath\(\&quot;\/\/label\[contains\(text\(\)\,\'Fiction\'\)\]\&quot;\)\)\.click\(\)\;\n\n    \}\n\n    \@Then\(\&quot;\^book is saved\$\&quot;\)\n    public void book_is_saved\(\) throws Throwable \{\n        String exp_message \= \&quot;Welcome to your account\. Here you can manage all   of your personal information and orders\.\&quot;\;\n\n    \}\n\n    \@Then\(\&quot;\^created book can be found\$\&quot;\)\n    public void created_book_can_be_found\(\) throws Throwable \{\n        if\(driver\.getPageSource\(\)\.contains\(\&quot;lalala\&quot;\)\)\n        \{\n            System\.out\.print\(\&quot;Book found\&quot;\)\;\n        \}\n\n        else\n        \{\n            System\.out\.print\(\&quot;Book NOT found\&quot;\)\;\n            if \(driver \=\= null\) \{\n\n            \}\n\n\n        \}\n    \}\n\n\}</find>
+      <find>package com\.bigbank\;\n\nimport java\.io\.File\;\n\nimport org\.junit\.BeforeClass\;\nimport org\.junit\.AfterClass\;\nimport org\.junit\.runner\.RunWith\;\n\nimport com\.cucumber\.listener\.Reporter\;\n\nimport cucumber\.api\.CucumberOptions\;\nimport cucumber\.api\.junit\.Cucumber\;\n\n\n\n\@RunWith\(Cucumber\.class\)\n\@CucumberOptions\(\n        features \=\&quot;src\/test\/resources\/features\/AddNewBook\.feature\&quot;\n        \,glue\= \&quot;com\/bigbank\&quot;\,\n        plugin \= \{ \&quot;com\.cucumber\.listener\.ExtentCucumberFormatter\:target\/cucumber\-reports\/report\.html\&quot;\}\,\n        monochrome \= true\n\)\n\n\npublic class RunCucumberTest \{\n    \@AfterClass\n    public static void writeExtentReport\(\) \{\n        Reporter\.loadXMLConfig\(new File\(\&quot;src\/config\/report\&quot;\)\)\;\n\n\n    \}\n\}</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/bigbank/StepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bigbank/locators/locators.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bigbank/locators/Field.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bigbank/locators/AbstractField.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bigbank/AllBookSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bigbank/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bigbank/locators/WaitSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bigbank/HookSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/AddNewBook.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/SearchBook.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bigbank/locators/Locators.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bigbank/WaitSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bigbank/CreateBookSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bigbank/browserhandler/BrowserHandler.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bigbank/RunCucumberTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="673" />
+    <option name="y" value="76" />
+    <option name="width" value="1466" />
+    <option name="height" value="795" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigbank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigbank" type="462c0819:PsiDirectoryNode" />
+              <item name="browserhandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigbank" type="462c0819:PsiDirectoryNode" />
+              <item name="locators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigbank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigbank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigBankAssignement" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumber-reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bigbank" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Find created book from the list">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Feature: AddNewBook" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="bigbank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Feature: SearchBook" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="bigbank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scenario: Add new book to the library data base" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="bigbank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Add new book to the library data base$&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scenario: Find created book from the list" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="bigbank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Find created book from the list$&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigbank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigbank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bigbank" />
+      <option name="MAIN_CLASS_NAME" value="com.bigbank.RunCucumberTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RunCucumberTest" />
+      <item itemvalue="Cucumber java.Feature: SearchBook" />
+      <item itemvalue="Cucumber java.Feature: AddNewBook" />
+      <item itemvalue="Cucumber java.Scenario: Add new book to the library data base" />
+      <item itemvalue="Cucumber java.Scenario: Find created book from the list" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Find created book from the list" />
+        <item itemvalue="JUnit.RunCucumberTest" />
+        <item itemvalue="Cucumber java.Feature: AddNewBook" />
+        <item itemvalue="Cucumber java.Scenario: Add new book to the library data base" />
+        <item itemvalue="Cucumber java.Feature: SearchBook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62592713-14aa-4ce8-95d7-bf2e01d14dd9" name="Default" comment="" />
+      <created>1576058287835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576058287835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Scenario__Find_created_book_from_the_list - 2019.12.12 at 19h 40m 42s.xml">
+      <configuration name="Scenario: Find created book from the list" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Find_created_book_from_the_list - 2019.12.12 at 19h 42m 55s.xml">
+      <configuration name="Scenario: Find created book from the list" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Find_created_book_from_the_list - 2019.12.12 at 19h 44m 00s.xml">
+      <configuration name="Scenario: Find created book from the list" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Find_created_book_from_the_list - 2019.12.12 at 19h 44m 31s.xml">
+      <configuration name="Scenario: Find created book from the list" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Find_created_book_from_the_list - 2019.12.12 at 19h 45m 02s.xml">
+      <configuration name="Scenario: Find created book from the list" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Find_created_book_from_the_list - 2019.12.12 at 19h 45m 37s.xml">
+      <configuration name="Scenario: Find created book from the list" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Find_created_book_from_the_list - 2019.12.12 at 19h 46m 18s.xml">
+      <configuration name="Scenario: Find created book from the list" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Find_created_book_from_the_list - 2019.12.12 at 19h 47m 02s.xml">
+      <configuration name="Scenario: Find created book from the list" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Find_created_book_from_the_list - 2019.12.12 at 19h 47m 29s.xml">
+      <configuration name="Scenario: Find created book from the list" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Find_created_book_from_the_list - 2019.12.12 at 19h 48m 10s.xml">
+      <configuration name="Scenario: Find created book from the list" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.31798714" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.40364027" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.17135416" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.46304676" />
+      <window_info id="Learn" order="1" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="0" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bigbank/locators/AbstractField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bigbank/locators/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="82" lean-forward="true" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bigbank/AllBookSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-404">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bigbank/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.7.0/selenium-api-3.7.0.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bigbank/HookSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.7.0/selenium-support-3.7.0.jar!/org/openqa/selenium/support/ui/FluentWait.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-reports/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bigbank/locators/Locators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bigbank/browserhandler/BrowserHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/AddNewBook.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/SearchBook.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bigbank/RunCucumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bigbank/CreateBookSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1445#1446#0" expanded="true" />
+            <element signature="e#3941#3942#0" expanded="true" />
+            <element signature="e#4035#4036#0" expanded="true" />
+            <element signature="e#3792#3793#0" expanded="true" />
+            <element signature="e#3864#3865#0" expanded="true" />
+            <element signature="e#3079#3080#0" expanded="true" />
+            <element signature="e#3148#3149#0" expanded="true" />
+            <element signature="e#5065#5066#0" expanded="true" />
+            <element signature="e#5094#5095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bigbank/WaitSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
